@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GithubWebhooksApplication {
 
-	//change 46
+	//change 47
 	public static void main(String[] args) {
 		SpringApplication.run(GithubWebhooksApplication.class, args);
 	}
